@@ -1,3 +1,5 @@
+//This game has been created by @vaylonn in 2023
+
 import java.util.Random;
 //First, create a class for a Card object
 public class Card {
