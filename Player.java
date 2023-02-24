@@ -1,3 +1,5 @@
+//This game has been created by @vaylonn in 2023
+
 //Create a class for the Player object
 import java.util.Scanner;
 import java.util.ArrayList;
