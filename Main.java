@@ -1,3 +1,5 @@
+//This game has been created by @vaylonn in 2023
+
 //Create a main class to run the game
 public class Main {
     public static void main(String[] args) {
